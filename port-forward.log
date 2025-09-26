@@ -1,0 +1,2 @@
+nohup: ignoring input
+error: Service 'vote-svc' does not have a named port 'svc/result-svc'
